@@ -1,1 +1,1 @@
-# garmin-api-gepner-labs
+# garmin-api-gepner-lab
