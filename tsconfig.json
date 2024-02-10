@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
-        "outDir": "dist",
-        "target": "es6",
+        "outDir": "./dist",
+        "target": "ES2022",
         "esModuleInterop": true,
         "moduleResolution": "node",
         "strictNullChecks": false
